@@ -1,0 +1,92 @@
+[
+  {
+    "id": "hosp_001",
+    "name": "Nashik Civil Hospital",
+    "type": "hospital",
+    "latitude": 19.9975,
+    "longitude": 73.7898,
+    "address": "MG Road, Nashik, Maharashtra 422001",
+    "phoneNumber": "+912532506482",
+    "isOpen24Hours": true
+  },
+  {
+    "id": "hosp_002",
+    "name": "Wockhardt Hospital",
+    "type": "hospital",
+    "latitude": 19.9956,
+    "longitude": 73.7721,
+    "address": "Mumbai - Agra Road, Nashik, Maharashtra 422101",
+    "phoneNumber": "+912532313636",
+    "isOpen24Hours": true
+  },
+  {
+    "id": "hosp_003",
+    "name": "Ashoka Medicover Hospital",
+    "type": "hospital",
+    "latitude": 20.0064,
+    "longitude": 73.7719,
+    "address": "Sharanpur Road, Nashik, Maharashtra 422002",
+    "phoneNumber": "+912532238888",
+    "isOpen24Hours": true
+  },
+  {
+    "id": "police_001",
+    "name": "Nashik Road Police Station",
+    "type": "police",
+    "latitude": 19.9987,
+    "longitude": 73.7931,
+    "address": "Station Road, Nashik, Maharashtra 422101",
+    "phoneNumber": "+912532508601",
+    "isOpen24Hours": true
+  },
+  {
+    "id": "police_002",
+    "name": "Sarkarwada Police Station",
+    "type": "police",
+    "latitude": 19.9914,
+    "longitude": 73.7814,
+    "address": "Sarkarwada, Nashik, Maharashtra 422002",
+    "phoneNumber": "+912532330100",
+    "isOpen24Hours": true
+  },
+  {
+    "id": "fire_001",
+    "name": "Nashik Fire Station",
+    "type": "fireStation",
+    "latitude": 19.9923,
+    "longitude": 73.7854,
+    "address": "MG Road, Nashik, Maharashtra 422001",
+    "phoneNumber": "+912532571701",
+    "isOpen24Hours": true
+  },
+  {
+    "id": "fire_002",
+    "name": "Satpur Fire Station",
+    "type": "fireStation",
+    "latitude": 20.0152,
+    "longitude": 73.7698,
+    "address": "Satpur MIDC, Nashik, Maharashtra 422007",
+    "phoneNumber": "+912532350101",
+    "isOpen24Hours": true
+  },
+  {
+    "id": "pharm_001",
+    "name": "Apollo Pharmacy",
+    "type": "pharmacy",
+    "latitude": 19.9963,
+    "longitude": 73.7795,
+    "address": "College Road, Nashik, Maharashtra 422005",
+    "phoneNumber": "+912532330789",
+    "isOpen24Hours": true
+  },
+  {
+    "id": "pharm_002",
+    "name": "MedPlus Pharmacy",
+    "type": "pharmacy",
+    "latitude": 20.0021,
+    "longitude": 73.7812,
+    "address": "Sharanpur Road, Nashik, Maharashtra 422002",
+    "phoneNumber": "+912532435678",
+    "isOpen24Hours": false
+  }
+]
