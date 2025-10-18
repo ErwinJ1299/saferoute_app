@@ -1,1 +1,44 @@
-[]
+ [
+	 {
+		 "id": "A",
+		 "name": "Millennium School",
+		 "lat": 18.5204,
+		 "lng": 73.8567,
+		 "connections": [
+			 {"to": "B", "distance": 1.2},
+			 {"to": "C", "distance": 2.0}
+		 ]
+	 },
+	 {
+		 "id": "B",
+		 "name": "Karve Road",
+		 "lat": 18.5240,
+		 "lng": 73.8500,
+		 "connections": [
+			 {"to": "A", "distance": 1.2},
+			 {"to": "C", "distance": 1.5},
+			 {"to": "D", "distance": 2.2}
+		 ]
+	 },
+	 {
+		 "id": "C",
+		 "name": "Canal Road",
+		 "lat": 18.5300,
+		 "lng": 73.8550,
+		 "connections": [
+			 {"to": "A", "distance": 2.0},
+			 {"to": "B", "distance": 1.5},
+			 {"to": "D", "distance": 1.0}
+		 ]
+	 },
+	 {
+		 "id": "D",
+		 "name": "Kakade City",
+		 "lat": 18.5350,
+		 "lng": 73.8600,
+		 "connections": [
+			 {"to": "B", "distance": 2.2},
+			 {"to": "C", "distance": 1.0}
+		 ]
+	 }
+ ]
